@@ -88,6 +88,9 @@
   <ItemGroup>
     <ClCompile Include="BeginnerRL.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\libtcod 1.5.1 VS\data\fonts\README.txt" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
